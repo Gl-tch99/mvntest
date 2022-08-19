@@ -33,6 +33,6 @@ public class AppTest
      */
     public void testApp()
     {
-        assertTrue(App.oddeve(5));
+        assertTrue(App.oddeve(6));
     }
 }
